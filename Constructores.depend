@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1415024030 source:/home/alumno/Carpeta sin título/Documentos/SM Progra3/Constructores/Guerrero.cpp
+	"Guerrero.h"
+
+1415023119 /home/alumno/Carpeta sin título/Documentos/SM Progra3/Constructores/Guerrero.h
+	<iostream>
+	"Personaje.h.h"
+
+1415024021 /home/alumno/Carpeta sin título/Documentos/SM Progra3/Constructores/Personaje.h.h
+	<iostream>
+
+1415023735 source:/home/alumno/Carpeta sin título/Documentos/SM Progra3/Constructores/Mago.cpp
+	"Mago.h"
+
+1415023793 /home/alumno/Carpeta sin título/Documentos/SM Progra3/Constructores/Mago.h
+	<iostream>
+	"Personaje.h.h"
+	"Mago.h"
+
+1415023512 source:/home/alumno/Carpeta sin título/Documentos/SM Progra3/Constructores/main.cpp
+	<iostream>
+	"Guerrero.h"
+	"Mago.h"
+	<vector>
+
+1415023459 source:/home/alumno/Carpeta sin título/Documentos/SM Progra3/Constructores/MiClase.h.cpp
+	"MiClase.h.h"
+
+1415023451 /home/alumno/Carpeta sin título/Documentos/SM Progra3/Constructores/MiClase.h.h
+
+1415023469 source:/home/alumno/Carpeta sin título/Documentos/SM Progra3/Constructores/Personaje.h.cpp
+	"Personaje.h.h"
+
